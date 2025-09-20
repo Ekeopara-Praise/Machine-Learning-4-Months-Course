@@ -6,25 +6,11 @@
 </h1>
 
 <p align="center">
-Learn machine learning engineering from regression and classification to deployment and deep learning.
-</p>
-
-<p align="center">
-<a href="https://airtable.com/shryxwLd0COOEaqXo"><img src="https://user-images.githubusercontent.com/875246/185755203-17945fd1-6b64-46f2-8377-1011dcb1a444.png" height="50" /></a>
-</p>
-
-<p align="center">
-<a href="https://datatalks.club/slack.html">Join #course-ml-zoomcamp Channel on Slack</a> •
-<a href="https://t.me/mlzoomcamp">Telegram Announcements</a> •
-<a href="https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR">Course Playlist</a> •
-<a href="https://docs.google.com/document/d/1LpPanc33QJJ6BSsyxVg-pWNMplal84TdZtq10naIhD8">FAQ</a> •
-<a href="https://ctt.ac/XZ6b9">Tweet about the Course</a>
+A 4-month course covering machine learning engineering from regression and classification to deployment and deep learning.
 </p>
 
 
 ## Table of Contents
-- [How to Join](#how-to-join)
-- [Quick Start Checklist](#quick-start-checklist-with-links)
 - [What This Course Is About](#what-this-course-is-about)
 - [Prerequisites](#prerequisites)
 - [Syllabus](#syllabus)
@@ -32,37 +18,6 @@ Learn machine learning engineering from regression and classification to deploym
 - [Certificates](#certificates)
 - [Sponsors](#sponsors)
 - [About DataTalks.Club](#about-datatalksclub)
-
-## How to Join
-
-### 2025 Cohort (Live Format)
-
-- **Starts**: September 15, 2025
-- **Duration**: 4 months
-- **Time commitment**: ~10 hours per week for coursework and projects
-- **What's included**: 
-  - Structured learning path with deadlines
-  - Peer interaction and community support
-  - Opportunity to earn a certificate
-- **Register**: [Sign up here](https://airtable.com/shryxwLd0COOEaqXo)
-- **Calendar**: [Subscribe to updates](https://calendar.google.com/calendar/?cid=cGtjZ2tkbGc1OG9yb2lxa2Vwc2g4YXMzMmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-
-### Self-Paced Learning (Available Anytime)
-
-All materials are freely available on GitHub. You can:
-- Follow along with the syllabus below
-- Complete homework at your own pace (solutions included)
-- Work on projects to practice what you learn
-
-**Note**: Self-paced learning gives you access to all course materials and recordings, but you need to join a live cohort to earn a certificate.
-
-## Quick Start Checklist with Links
-
-- Check [this repository content](https://github.com/DataTalksClub/machine-learning-zoomcamp) and star it (all materials live here).
-- Subscribe to [DataTalks.Club on YouTube](https://www.youtube.com/@DataTalksClub) and review the [course playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR).
-- Read the [frequently asked questions](https://docs.google.com/document/d/1LpPanc33QJJ6BSsyxVg-pWNMplal84TdZtq10naIhD8) to save time later.  
-- Join the [Slack course channel](https://DataTalks.Club/slack.html) for discussions.  
-- Join the [Telegram channel](https://t.me/mlzoomcamp) for announcements.  
 
 ## About ML Zoomcamp
 
@@ -228,42 +183,4 @@ To receive a certificate, you'll need to:
 
 **Important**: Projects must be completed individually, and you can join after the course has started if you miss some homework deadlines.
 
-<p align="center">
-  <strong>Ready to start? <a href="https://airtable.com/shryxwLd0COOEaqXo">Join the 2025 cohort</a> or <a href="01-intro/">start with Module 1</a></strong>
-</p>
 
-## Sponsors
-
-Thanks to our sponsors who make this course possible:
-
-<p align="center">
-  <a href="https://saturncloud.io/">
-    <img height="120" src="https://github.com/DataTalksClub/llm-zoomcamp/raw/main/images/saturn-cloud.png">
-  </a>
-</p>
-
-Interested in sponsoring? Contact [alexey@datatalks.club](mailto:alexey@datatalks.club).
-
-## About DataTalks.Club
-
-<p align="center">
-  <img width="40%" src="https://github.com/user-attachments/assets/1243a44a-84c8-458d-9439-aaf6f3a32d89" alt="DataTalks.Club">
-</p>
-
-<p align="center">
-<a href="https://datatalks.club/">DataTalks.Club</a> is a global online community of data enthusiasts. It's a place to discuss data, learn, share knowledge, ask and answer questions, and support each other.
-</p>
-
-<p align="center">
-<a href="https://datatalks.club/">Website</a> •
-<a href="https://datatalks.club/slack.html">Join Slack Community</a> •
-<a href="https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa">Newsletter</a> •
-<a href="http://lu.ma/dtc-events">Upcoming Events</a> •
-<a href="https://calendar.google.com/calendar/?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">Google Calendar</a> •
-<a href="https://www.youtube.com/@DataTalksClub/featured">YouTube</a> •
-<a href="https://github.com/DataTalksClub">GitHub</a> •
-<a href="https://www.linkedin.com/company/datatalks-club/">LinkedIn</a> •
-<a href="https://twitter.com/DataTalksClub">Twitter</a>
-</p>
-
-All the activity at DataTalks.Club mainly happens on [Slack](https://datatalks.club/slack.html). We post updates there and discuss different aspects of data, career questions, and more.
